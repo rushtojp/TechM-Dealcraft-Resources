@@ -1,3 +1,7 @@
+Microsoft AI Adoption framework
+
+https://microsoft.github.io/Microsoft-AI-Decision-Framework/
+
 Cloud Adoption Framework
 
 https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/
